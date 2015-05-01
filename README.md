@@ -1,0 +1,2 @@
+# pepper-redballdetection
+PepperのALRedBallDetectionでモーションキャプチャまがいの実験
